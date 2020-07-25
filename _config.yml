@@ -7,14 +7,14 @@ permalink:        pretty
 
 # Setup
 title:            Ethan Edwards
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              https://resume.ethancedwards.com
+tagline:          'Ethan Edwards'
+description:      'Ethan Edwards is a Unix lover how hopes to teach others!'
+url:              https://blog.ethancedwards.com
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Ethan Edwards'
+  url:            https://twitter.com/ethancedwards
 
 paginate:         5
 
@@ -22,7 +22,7 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/ethancedwards8/ethancedwards8.github.io
 
 plugins:
   - jeykll-paginate
