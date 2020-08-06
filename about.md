@@ -1,7 +1,7 @@
-\-\-\-
-\l\a\y\o\u\t\:\ \p\a\g\e
-\t\i\t\l\e\:\ \A\b\o\u\t
-\-\-\-
+---
+layout: page
+title: About
+---
 
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
